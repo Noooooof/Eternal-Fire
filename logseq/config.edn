@@ -90,7 +90,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:editor/move-block-up "alt+up", :editor/move-block-down "alt+down", :go/search-in-page "ctrl+f"}
+ :shortcuts {:editor/move-block-up "alt+up", :editor/move-block-down "alt+down", :go/search-in-page "ctrl+f", :editor/highlight "ctrl+h"}
 
  ;; Whether to show command doc on hover
  :ui/show-command-doc? true
