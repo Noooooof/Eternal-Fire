@@ -11,5 +11,6 @@
 		- 一些散乱的纸张
 			- ![image.png](../assets/image_1632912270237_0.png)
 			- ![image.png](../assets/image_1632912315505_0.png)
+			- ![image.png](../assets/image_1632912343155_0.png)
 			-
 - 和 [[失踪居民住宅C：雅各布家]] 是邻居。
